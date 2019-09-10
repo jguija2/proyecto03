@@ -1,0 +1,500 @@
+   58  cd com
+   59  ls -l
+   60  cd tiendaweb/
+   61  ls -l
+   62  cd springboot/
+   63  ls -l
+   64  cd web/
+   65  ls -l
+   66  cd app/
+   67  ls -l
+   68  cd controllers/
+   69  ls -l
+   70  cd /
+   71  ls 
+   72  cd
+   73  ls 
+   74  ls -l
+   75  git clone https://gitlab.com/Jmmh/proyectodam.git proyectoJuanMa
+   76  ls -l
+   77  rm -r proyectodam/
+   78  ls -l
+   79  rm -r proyectoJuanMa/
+   80  git
+   81  vbox
+   82  vboxmanage --version
+   83  vboxmanage --version
+   84  vboxmanage --version
+   85  vagrant --version
+   86  vagrant box 
+   87  vagrant box laravel/homestead
+   88  vagrant box add laravel/homestead
+   89  git clone https://github.com/larabel/homestead.git Homested
+   90  git clone https://github.com/larabel/homestead.git Homested
+   91  git clone https://github.com/larabel/homestead.git Homestead
+   92  git clone https://github.com/laravel/homestead.git Homestead
+   93  cd 
+   94  pwd
+   95  ls
+   96  cd Homestead/
+   97  ls
+   98  ./init.sh 
+   99  ssh-keygen -t rsa -b 4096 -C "guijarroguijarro@hotmail.com"
+  100  cd ..
+  101  cd Homestead/
+  102  vagrant up
+  103  vagrant ssh
+  104  vagrant suspend
+  105  vagrant upç
+  106  vagrant up
+  107  composer create-project laravel/laravel tienda1920
+  108  composer
+  109  reboot
+  110  exit
+  111  vagrant halt
+  112  cd Homestead/
+  113  vagrant halt
+  114  exit
+  115  pwd
+  116  ssh
+  117  cd Homestead/
+  118  vagrant
+  119  vagrant help
+  120  vagrant --help
+  121  vagrant --help
+  122  vagrant ssh
+  123  vagrant up
+  124  vagrant ssh
+  125  vagrant halt
+  126  vagrant up
+  127  vagrant ssh
+  128  vagrant reboot
+  129  vagrant reload
+  130  vagrant ssh
+  131  vagrant halt
+  132  exit
+  133  vagrant up
+  134  cd Homestead/
+  135  vagrant up
+  136  ls
+  137  vagrant ssh
+  138  pwd
+  139  vagrant reload --provision
+  140  exit
+  141  ls
+  142  cd proyecto01/
+  143  ls
+  144  git init
+  145  cd ..
+  146  rm -r proyecto01/
+  147  mkdir proyecto01
+  148  cd proyecto01/
+  149  git init
+  150  ls
+  151  cd proyecto01/
+  152  ls
+  153  git init
+  154  git status
+  155  mkdir imagenes
+  156  mkdir estilos
+  157  echo "hoa">index.html
+  158  git status
+  159  ls -l
+  160  git add index.html 
+  161  git add index.html 
+  162  git add -A
+  163  git status
+  164  git commit -m "Empezando"
+  165  git status
+  166  git add -A
+  167  git status
+  168  git commit -m "Empezando"
+  169  git status
+  170  git add -A
+  171  git commit -m "Empezando"
+  172  git status
+  173  git status
+  174  git status
+  175  git commit -m "Empezando"
+  176  git status
+  177  git add -A
+  178  git status
+  179  git commit -m "Empezando02"
+  180  git log
+  181  history
+  182  git log
+  183  git checkout bd5711fcd5af38f3a4a94b92b6172c8918980b14
+  184  cat index.html 
+  185  git checkout -b bd5711fcd5af38f3a4a94b92b6172c8918980b14
+  186  cat index.html 
+  187  git log
+  188  git checkout -b  3a924ad2f7afb7d607cc65ad7e8db6d00b6afdb0
+  189  cat index.html 
+  190  git log
+  191  git checkout 3a924ad2f7afb7d607cc65ad7e8db6d00b6afdb0
+  192  git status
+  193   3a924ad2f7afb7d607cc65ad7e8db6d00b6afdb0
+  194  git log
+  195  git checkout  3a924ad2f7afb7d607cc65ad7e8db6d00b6afdb0
+  196  cat index.html 
+  197  git add -A
+  198  git commit "Numeros"
+  199  git commit -m "Numeros"
+  200  git log
+  201  git checkout bd5711fcd5af38f3a4a94b92b6172c8918980b14
+  202  cat index.html 
+  203  git log
+  204  clear
+  205  git log
+  206  git log
+  207  git log
+  208  git checkout master
+  209  git checkout 'master'
+  210  git log
+  211  git reset --hard
+  212  git log
+  213  git reset --soft
+  214  git log
+  215  git reset --soft 17ca62659a6ce3dc42475164c46aaf83e6936f16
+  216  git log
+  217  17ca62659a6ce3dc42475164c46aaf83e6936f16g
+  218  git status
+  219  git reset master
+  220  git reset head
+  221  git log
+  222  git reset HEAD
+  223  git log
+  224  git reset --hard
+  225  git log
+  226  git reset --hard HEAD
+  227  git log
+  228  git reset --hard master
+  229  git log
+  230  git --help
+  231  git init
+  232  git log
+  233  git reset --hard 3a924ad2f7afb7d607cc65ad7e8db6d00b6afdb0
+  234  git log
+  235  git reset --hard
+  236  git log
+  237  git reset --hard 3a924ad2f7afb7d607cc65ad7e8db6d00b6afdb0
+  238  git log
+  239  ls
+  240  cd ..
+  241  rm -r proyecto01/
+  242  s
+  243  ls 
+  244  rm -r probandoGit/
+  245  git config --global user.name 
+  246  git config --global user.name "jguija2"
+  247  git config --global user.name 
+  248  git config --global user.
+  249  git config --global user
+  250  git config --global user.email
+  251  ls
+  252  mkdir proyecto01
+  253  cd proyecto01/
+  254  mkdir imagenes
+  255  mkdir archivos
+  256  git init
+  257  git status
+  258  git status
+  259  git add -A
+  260  git status
+  261  git commit -m "Iniciamos"
+  262  git status
+  263  git status
+  264  git add -A
+  265  git status
+  266  git commit -m "Modificamos el index"
+  267  git status
+  268  clear
+  269  git status
+  270  git log
+  271  git log>logs.txt
+  272  cat logs.txt 
+  273  clear
+  274  git log
+  275  git status
+  276  git log
+  277  git add -A
+  278  git commint -m "Varias h1"
+  279  git status
+  280  git log
+  281  git status
+  282  git add -A
+  283  git commit -m "Varios h1"
+  284  git log
+  285  git checkout "3b7246cb963348ebddeb5b30263f2d2b7b788c6c"
+  286  git checkout master
+  287  git log
+  288  git checkout master
+  289  git checkout '3b7246cb963348ebddeb5b30263f2d2b7b788c6c'
+  290  git checkout master
+  291  git log
+  292  git checkout 
+  293  git log
+  294  git checkout master
+  295  git checkout 3b7246cb963348ebddeb5b30263f2d2b7b788c6c
+  296  git log
+  297  git log
+  298  git status
+  299  git add -A
+  300  git commit -m "Iniciando despues"
+  301  git log
+  302  git checkout 3b7246cb963348ebddeb5b30263f2d2b7b788c6c
+  303  git master
+  304  git checkout master
+  305  git log
+  306  git status
+  307  git log
+  308  git checkout '3b7246cb963348ebddeb5b30263f2d2b7b788c6c'
+  309  git log
+  310  git checkout master
+  311  git log
+  312  git add -A
+  313  git log
+  314  git status
+  315  git add -A
+  316  git commit -m "Con h2"
+  317  git status
+  318  git log
+  319  git log
+  320  git checkout "af750c9407a709e923d9ae9fbd1c0ef08e2f9476"
+  321  git log
+  322  git checkout "master"
+  323  git log
+  324  git log>commits.txt
+  325  nano commits.txt 
+  326  git reset "b9e408af163f2332ff5b7a759e76604e5937c0ca"
+  327  git log
+  328  git status
+  329  gitb9e408af163f2332ff5b7a759e76604e5937c0ca
+  330  git add -A
+  331  git commit -m "Modificando commits"
+  332  git log
+  333  git reset --hard 3b7246cb963348ebddeb5b30263f2d2b7b788c6c
+  334  git log
+  335  git help
+  336  git help add
+  337  git show
+  338  git status
+  339  git log
+  340  git checkout master
+  341  git log
+  342  git status
+  343  git log
+  344  git branch
+  345  git branch test
+  346  git branch 
+  347  git checkout test
+  348  git branch 
+  349  git test
+  350  git log
+  351  git status
+  352  git branch 
+  353  pwd
+  354  cd ..
+  355  mkdir proyecto02
+  356  cd proyecto02
+  357  git init
+  358  git log
+  359  git status
+  360  git status
+  361  git add index.html 
+  362  git status
+  363  git add -A
+  364  git status
+  365  git log
+  366  git commit -m "Iniciamos el proyecto"
+  367  git status
+  368  git log
+  369  git commit -m "lorem ipsum"
+  370  git commit -m "lorem ipsum"
+  371  git add -A
+  372  git commit -m "lorem ipsum"
+  373  git log
+  374  git status
+  375  git commit "8a2f5bd843e3b4cce5cab85e4bf9bca1ee753434"
+  376  git checkout "8a2f5bd843e3b4cce5cab85e4bf9bca1ee753434"
+  377  git log
+  378  git checkout master
+  379  git log
+  380  git checkout "8a2f5bd843e3b4cce5cab85e4bf9bca1ee753434"
+  381  git log
+  382  git status
+  383  git add -A
+  384  git log
+  385  git commit -m "Ahora vamos a la segunda rama"
+  386  git log
+  387  git master
+  388  git checkout master
+  389  git log
+  390  git checkout "8a2f5bd843e3b4cce5cab85e4bf9bca1ee753434"
+  391  git reset "8a2f5bd843e3b4cce5cab85e4bf9bca1ee753434"
+  392  git log
+  393  git reset --soft "8a2f5bd843e3b4cce5cab85e4bf9bca1ee753434"
+  394  git log
+  395  git checkout master
+  396  git log
+  397  git branck text
+  398  git branch 
+  399  git branch text
+  400  git branch 
+  401  git checkout text
+  402  git branch 
+  403  git log
+  404  git checkout master
+  405  git log
+  406  git checkout text
+  407  git log
+  408  git branch 
+  409  git log
+  410  git log
+  411  git status 
+  412  git add -A
+  413  git commit -m "rama text en test"
+  414  git log
+  415  git log
+  416  git status
+  417  git add -A
+  418  git commit -m "Estamos añadiendo cosas a test"
+  419  git log
+  420  git checkout master
+  421  git log
+  422  git checkout text
+  423  git log
+  424  git checkout master
+  425  git checkout text
+  426  git checkout master
+  427  git merge text
+  428  git branck
+  429  git branch 
+  430  git log
+  431  git branch text
+  432  git branch 
+  433  git branch text
+  434  git checkout text
+  435  git branch colores
+  436  git branck
+  437  git branch
+  438  git log
+  439  git branch -d colores
+  440  git branch 
+  441  git branch master
+  442  git branch colores
+  443  git branch master
+  444  git branch 
+  445  git branch -d colores
+  446  git checkout master
+  447  git branch colores
+  448  git branch 
+  449  git checkout colores
+  450  git log
+  451  git status
+  452  git branch 
+  453  git add -A
+  454  git commit -m "Cambio de colores. Solo pasa en la rama colores"
+  455  git log
+  456  git status 
+  457  git branch -d colores
+  458  git branch -d colores
+  459  git branch 
+  460  git master
+  461  git branch master
+  462  git checkout master
+  463  git branch -d colores
+  464  git branch -D colores
+  465  git branch 
+  466  git branch -D text
+  467  git branch 
+  468  git log
+  469  ls
+  470  git remote https://github.com/jguija2/probandogit.git
+  471  git remote add https://github.com/jguija2/probandogit.git
+  472  git remote add probandogit https://github.com/jguija2/probandogit.git
+  473  git remote add origin https://github.com/jguija2/probandogit.git
+  474  git remote -v
+  475  git log
+  476  git push origin master
+  477  git remote -v
+  478  git push -u origin master
+  479  git pull origin master
+  480  git push origin master
+  481  git remote add origin https://github.com/jguija2/probandogit.git
+  482  git log
+  483  git branch 
+  484  git status
+  485  git remote add origin
+  486  git remote add origin https://github.com/jguija2/probandogit.git
+  487  git pull origin master
+  488  git pull origin master --allow-unrelated-histories
+  489  git pull origin master
+  490  git push origin master
+  491  history>historia
+  492  cat historia 
+  493  git add -A
+  494  git commit -m "Otro commit nuevo"
+  495  git push origin master
+  496  git log
+  497  mkdir kkkdd
+  498  ls
+  499  cp Captura.PNG kkkdd/
+  500  git log
+  501  git status
+  502  git add -A
+  503  git commit -m "kkkdd"
+  504  git push origin master
+  505  git pull origin master --allow-unrelated-histories
+  506  git push origin master
+  507  mkdir jose
+  508  cp Captura.PNG jose
+  509  git add -A
+  510  git commit -m "carpeta jose"
+  511  git push origin master
+  512  git add -A
+  513  git commit -m "kdlkajflk"
+  514  git push origin master
+  515  git log
+  516  git status
+  517  pwd
+  518  cd ..
+  519  mkdir proyecto03
+  520  cd proyecto03
+  521  git init
+  522  git status
+  523  git add -A
+  524  del histoira
+  525  rm historia
+  526  git status
+  527  git checkout --historia
+  528  git checkout -- historia
+  529  git status
+  530  rm historia
+  531  git status
+  532  git rm historia
+  533  git status
+  534  git add -A 
+  535  git log
+  536  git commit -m "Primer commit"
+  537  git status
+  538  git log
+  539  git branch 
+  540  git branch test
+  541  git branch 
+  542  git checkout test
+  543  git branch 
+  544  git status
+  545  git log>historia
+  546  git status
+  547  git add -A 
+  548  git commit -m "Historia"
+  549  git log
+  550  git remote -v
+  551  git push origin master
+  552  pwd
+  553  git -v
+  554  git remote add origin https://github.com/jguija2/proyecto03.git
+  555  git push origin master
+  556  git history 
+  557  history>historia
